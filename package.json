@@ -11,7 +11,8 @@
   },
   "bin": "./bin.js",
   "dependencies": {
-    "glob": "^7.0.0"
+    "glob": "^7.0.0",
+    "graceful-fs": "git+https://github.com/Rise-Vision/node-graceful-fs.git"
   },
   "files": [
     "LICENSE",
